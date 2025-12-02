@@ -1,0 +1,12 @@
+{
+  "name": "Test Power-Up",
+  "description": "For Postman API learning",
+  "author": "Your Name",
+  "capabilities": [
+    "card-badges"
+  ],
+  "icon": {
+    "dark": "./icon.png",
+    "light": "./icon.png"
+  }
+}
