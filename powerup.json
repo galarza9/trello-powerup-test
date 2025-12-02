@@ -3,7 +3,7 @@
   "description": "For Postman API learning",
   "author": "Your Name",
   "capabilities": [
-    "card-badges"
+    "card-buttons"
   ],
   "icon": {
     "dark": "./icon.png",
